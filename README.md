@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, mi nombre es Camilo Andrés Buelvas Acosta</h1>
-<h3 align="center">Estoy en proceso de convertirme en desarrollador, me encanta la producción musical y grabar canciones.</h3 >
+<h3 align="center">Frontend Development, fanatico de la producción musical.</h3 >
 
-- 🌱 Estoy estudiando **Programación**
+- 🌱 Estoy estudiando **Desarrollo Web en Universidad Tecnologica De Pereira**
 
 - 📫 Nombre de contacto: **camijc1104@gmail.com**
 
